@@ -1,0 +1,32 @@
+/*parte raiz do documento*/
+:root{
+    --title-color:#322153;
+    --primary-color:#34cd89;
+    --secondary-color:#f5f5f5;
+}
+
+/*referencia todos os seletores*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Noto Sans KR, sans-serif;
+}
+
+body {
+    background: var(--secondary-color);
+    -webkit-font-smoothing: antialised;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Ubuntu, sans-serif;
+    color: var(--title-color);
+}
+
