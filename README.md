@@ -37,8 +37,7 @@ Para usar o site é preciso do NodeJs
 -Instale as dependências
 npm install
 
--Inicie o site
+-Inicie o servidor
 npm start
 
--Acesse pela linha de comando ou navegador
-start "http://localhost:3000"
+-Acesse a página pelo http://localhost:3000
