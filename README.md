@@ -1,40 +1,40 @@
-Next_Level_Week 1.0
-(01/06 a 07/06/2020)
+<h1 align="center">Next_Level_Week 1.0</h1>
+<h3 align="center">(01/06 a 07/06/2020)</h3>
 
-NLW Starter Projeto: CriaÁ„o da p·gina Ecoleta por Mayk Brito|Rocketseat.
+<h2 align="center">  NLW Starter Projeto: Cria√ß√£o da p√°gina Ecoleta por Mayk Brito|Rocketseat üöÄ</h2>
 
 
 -Linguagem JavaScript (front e back-end)
--Node.js: Ambiente de execuÁ„o JavaScript server-side
--Express: Framework para criaÁ„o de API's do Node
--Nunjucks:Template Engine que permite manipular Html de forma din‚mica
+-Node.js: Ambiente de execu√ß√£o JavaScript server-side
+-Express: Framework para cria√ß√£o de API's do Node
+-Nunjucks:Template Engine que permite manipular Html de forma din√¢mica
 -Banco de dados: SQL (SQLite)
 
-DIA 1
--HTML e CSS: criaÁ„o p·gina inicial, responsividade
+<strong>DIA 1</strong> 
+-HTML e CSS: cria√ß√£o p√°gina inicial, responsividade
 
-DIA 2
--HTML, CSS: criaÁ„o p·gina de cadastro do ponto de coleta
-
-
-DIA 3
--HTML, CSS e JavaScript: continuaÁ„o p·gina de cadastro do ponto de coleta, modal para 
-pesquisar pontos de coleta, criaÁ„o p·gina de locais encontrados
+<strong>DIA 2</strong> 
+-HTML, CSS: cria√ß√£o p√°gina de cadastro do ponto de coleta
 
 
-DIA 4
--EstruturaÁ„o das pastas do Projeto
--CriaÁ„o/configuraÁ„o do Servidor
--Template Engine para trabalhar com os arquivos HTML de forma din‚mica
+<strong>DIA 3</strong> 
+-HTML, CSS e JavaScript: continua√ß√£o p√°gina de cadastro do ponto de coleta, modal para 
+pesquisar pontos de coleta, cria√ß√£o p√°gina de locais encontrados
+
+
+<strong>DIA 4</strong> 
+-Estrutura√ß√£o das pastas do Projeto
+-Cria√ß√£o/configura√ß√£o do Servidor
+-Template Engine para trabalhar com os arquivos HTML de forma din√¢mica
 	
 
-DIA 5
+<strong>DIA 5</strong> 
 -Banco de Dados: SQLite
--Back-end: adicionando itens formul·rio, enviar formul·rio, pesquisar pontos de coleta
+-Back-end: adicionando itens formul√°rio, enviar formul√°rio, pesquisar pontos de coleta
 
 
-Para usar o site È preciso do NodeJs
--Instale as dependÍncias
+Para usar o site √© preciso do NodeJs
+-Instale as depend√™ncias
 npm install
 
 -Inicie o site
